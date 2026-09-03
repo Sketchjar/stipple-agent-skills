@@ -51,4 +51,4 @@ Apache-2.0
 
 ---
 
-*Powered by [Stipple](https://www.stipple.sh) — hosted MCP for document verification, AU/NZ due diligence and tender search.*
+*Built on the [Stipple API](https://www.stipple.sh) — the same verification layer is available as a hosted [MCP server](https://github.com/Sketchjar/stipple-mcp).*
